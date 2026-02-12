@@ -39,7 +39,7 @@ multi-user.target
 System successfully running in CLI mode.
 
 
-### How to Switch Back to GUI Mode
+### Switching Back to GUI Mode
 ```bash
 sudo systemctl set-default graphical.target
 ```
