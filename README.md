@@ -49,6 +49,10 @@ sudo systemctl enable gdm
 ```bash
 sudo reboot
 ```
+Direct switch to GUI without reboot
+```bash
+sudo systemctl start gdm
+```
 
 
 graphical.target → GUI mode
