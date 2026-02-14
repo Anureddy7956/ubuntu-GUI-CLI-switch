@@ -38,6 +38,7 @@ Expected output:
 multi-user.target
 System successfully running in CLI mode.
 
+<img width="1600" height="1343" alt="image" src="https://github.com/user-attachments/assets/4fdd03d3-4ae5-424f-ae39-918e417f1a59" />
 
 ### Switching Back to GUI Mode
 ```bash
